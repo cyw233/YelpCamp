@@ -1,18 +1,13 @@
 # YelpCamp
 
-[![Known Vulnerabilities](https://snyk.io/test/github/lucasweng/yelp-camp/badge.svg)](https://snyk.io/test/github/lucasweng/yelp-camp)
-[![NSP Status](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa/badge)](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa)
-
-> A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
-
 ## Live Demo
 
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to <https://fierce-brook-36009.herokuapp.com/>
 
 ## Features
 
 * Authentication:
-  
+
   * User login with username and password
 
   * Admin sign-up with admin code
@@ -32,12 +27,10 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
   * Upload campground photos
 
   * Display campground location on Google Maps
-  
+
   * Search existing campgrounds
 
 * Manage user account with basic functionalities:
-
-  * ~~Password reset via email confirmation~~ (disabled)
 
   * Profile page setup with sign-up
 
@@ -54,7 +47,7 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 * Improve image load time on the landing page using Cloudinary
 
 * Use Helmet to strengthen security
- 
+
 ## Getting Started
 
 > This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
@@ -62,7 +55,7 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/cyw233/YelpCamp.git
 ```
 
 ### Install dependencies
@@ -109,9 +102,5 @@ Some comments in the source code are course notes and therefore might not seem n
 
 ### Platforms
 
-* [Cloudinary](https://cloudinary.com/)
 * [Heroku](https://www.heroku.com/)
-* [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-## License
 
-#### [MIT](./LICENSE)
